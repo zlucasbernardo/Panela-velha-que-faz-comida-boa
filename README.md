@@ -2,9 +2,10 @@
 ### O dataset possui 3 tipos de classes de panelas: Frigideiras, Panelas de Pressão e Travessas de Forno
 ### Lucas Bernardo da Costa
 
-|**Classificação de Imagens**|**Tensorflow**|**Python**|
+
+|**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
 |--|--|--|
-|Classificação de Imagens<br>ou<br>Deteção de Objetos|ex.: YOLOv5|PyTorch ou Tensorflow|
+|Classificação de Imagens<br>|Tensorflow|Python
 
 ## Performance
 
